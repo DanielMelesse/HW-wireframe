@@ -1,0 +1,6 @@
+
+git clone 	==> copying repo 
+git add 	==> adding to stage on ur local 
+git commit  ==> save the change with message
+git push	==> push to remote 
+git pull    ==> pull new set of code from whatever branch
